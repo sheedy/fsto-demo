@@ -9,7 +9,7 @@
       "node": ">=0.10.0"
   },  
   "dependencies": {
-    "express": "~4.10",
+    "express": "~4.17.1",
     "nconf": "~0.6",
     "body-parser": "^1.5.2",
     "errorhandler": "^1.1.1",
